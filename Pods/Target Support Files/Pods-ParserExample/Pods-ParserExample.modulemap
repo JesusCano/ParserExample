@@ -1,0 +1,6 @@
+framework module Pods_ParserExample {
+  umbrella header "Pods-ParserExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
